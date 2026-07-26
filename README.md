@@ -6,6 +6,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0485-max-consecutive-ones](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
