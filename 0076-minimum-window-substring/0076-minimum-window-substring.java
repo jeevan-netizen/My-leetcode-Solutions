@@ -1,40 +1,38 @@
 class Solution {
     public String minWindow(String s, String t) {
-        HashMap<Character,Integer> map = new HashMap<>();
-        HashMap<Character,Integer> window = new HashMap<>();
-        
-        if(s.length() < t.length()) return "";
+        if (s.length() < t.length()) return "";
 
-        for(char c: t.toCharArray())
-            map.put(c,map.getOrDefault(c,0) + 1);
+        int[] need = new int[128];
+        int required = 0; 
 
-        int left = 0;
-        int formed = 0;
-        int start = 0;
-        int minlen = Integer.MAX_VALUE;
-
-        for(int right = 0; right < s.length(); right++){
-            char c = s.charAt(right);
-            window.put(c,window.getOrDefault(c,0)+1);
-
-            if(map.containsKey(c) && window.get(c).intValue() == map.get(c).intValue())
-                formed++;
-
-                while(formed == map.size()){
-                    if(right - left + 1 < minlen){
-                        minlen = right - left +1;
-                        start = left;
-                    }
-
-                    char ch = s.charAt(left);
-                    window.put(ch,window.get(ch) -1);
-
-                    if(map.containsKey(ch) && window.get(ch) < map.get(ch))
-                        formed--;
-
-                    left++;
-                }
+        for (char c : t.toCharArray()) {
+            if (need[c] == 0) required++;
+            need[c]++;
         }
-        return minlen == Integer.MAX_VALUE ? "" : s.substring(start,start + minlen);
+
+        int[] window = new int[128];
+        int left = 0, formed = 0;
+        int start = 0, minLen = Integer.MAX_VALUE;
+
+        for (int right = 0; right < s.length(); right++) {
+            char c = s.charAt(right);
+            window[c]++;
+
+            if (need[c] > 0 && window[c] == need[c]) formed++;
+
+            while (formed == required) {
+                if (right - left + 1 < minLen) {
+                    minLen = right - left + 1;
+                    start = left;
+                }
+
+                char ch = s.charAt(left);
+                window[ch]--;
+                if (need[ch] > 0 && window[ch] < need[ch]) formed--;
+                left++;
+            }
+        }
+
+        return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
     }
 }
