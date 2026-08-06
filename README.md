@@ -78,6 +78,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -110,6 +111,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0202-happy-number) |
+| [0441-arranging-coins](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0441-arranging-coins) |
 ## Manacher
 |  |
 | ------- |
