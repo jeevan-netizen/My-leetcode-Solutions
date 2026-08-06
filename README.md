@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -79,6 +80,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
