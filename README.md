@@ -28,6 +28,7 @@
 | [0088-merge-sorted-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -67,6 +68,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0541-reverse-string-ii) |
