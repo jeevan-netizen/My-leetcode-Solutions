@@ -1,31 +1,37 @@
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
-        List<Integer> ans = new ArrayList<>();
+        List<Integer> result = new ArrayList<>();
+
+        if (s.length() == 0 || words.length == 0) {
+            return result;
+        }
 
         int wordLen = words[0].length();
         int wordCount = words.length;
         int totalLen = wordLen * wordCount;
 
-        if (s.length() < totalLen) return ans;
-
-        Map<String, Integer> freq = new HashMap<>();
-
-        for (String word : words) {
-            freq.put(word, freq.getOrDefault(word, 0) + 1);
+        if (s.length() < totalLen) {
+            return result;
         }
 
-        for (int start = 0; start < wordLen; start++) {
+        HashMap<String, Integer> target = new HashMap<>();
 
-            int left = start;
+        for (String word : words) {
+            target.put(word, target.getOrDefault(word, 0) + 1);
+        }
+
+        for (int offset = 0; offset < wordLen; offset++) {
+
+            int left = offset;
             int count = 0;
 
-            Map<String, Integer> window = new HashMap<>();
+            HashMap<String, Integer> window = new HashMap<>();
 
-            for (int right = start; right + wordLen <= s.length(); right += wordLen) {
+            for (int right = offset; right + wordLen <= s.length(); right += wordLen) {
 
                 String word = s.substring(right, right + wordLen);
 
-                if (!freq.containsKey(word)) {
+                if (!target.containsKey(word)) {
                     window.clear();
                     count = 0;
                     left = right + wordLen;
@@ -35,19 +41,19 @@ class Solution {
                 window.put(word, window.getOrDefault(word, 0) + 1);
                 count++;
 
-                while (window.get(word) > freq.get(word)) {
-                    String remove = s.substring(left, left + wordLen);
+                while (window.get(word) > target.get(word)) {
+                    String leftWord = s.substring(left, left + wordLen);
 
-                    window.put(remove, window.get(remove) - 1);
+                    window.put(leftWord, window.get(leftWord) - 1);
                     left += wordLen;
                     count--;
                 }
 
                 if (count == wordCount) {
-                    ans.add(left);
+                    result.add(left);
 
-                    String remove = s.substring(left, left + wordLen);
-                    window.put(remove, window.get(remove) - 1);
+                    String leftWord = s.substring(left, left + wordLen);
+                    window.put(leftWord, window.get(leftWord) - 1);
 
                     left += wordLen;
                     count--;
@@ -55,6 +61,6 @@ class Solution {
             }
         }
 
-        return ans;
+        return result;
     }
 }
