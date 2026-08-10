@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -31,6 +32,7 @@
 | [0088-merge-sorted-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -89,6 +91,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -147,4 +150,16 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
