@@ -1,21 +1,22 @@
 class Solution {
     public boolean containsNearbyAlmostDuplicate(int[] nums, int indexDiff, int valueDiff) {
-        TreeSet<Long> slidingWindow = new TreeSet<>();
-      
-        for (int currentIndex = 0; currentIndex < nums.length; currentIndex++) {
-            Long ceilingValue = slidingWindow.ceiling((long) nums[currentIndex] - (long) valueDiff);
-          
-            if (ceilingValue != null && ceilingValue <= (long) nums[currentIndex] + (long) valueDiff) {
+        TreeSet<Long> set = new TreeSet<>();
+
+        for (int i = 0; i < nums.length; i++) {
+
+            Long ceiling = set.ceiling((long) nums[i] - valueDiff);
+
+            if (ceiling != null && ceiling <= (long) nums[i] + valueDiff) {
                 return true;
             }
-          
-            slidingWindow.add((long) nums[currentIndex]);
-          
-            if (currentIndex >= indexDiff) {
-                slidingWindow.remove((long) nums[currentIndex - indexDiff]);
+
+            set.add((long) nums[i]);
+
+            if (i >= indexDiff) {
+                set.remove((long) nums[i - indexDiff]);
             }
         }
-      
+
         return false;
     }
 }
