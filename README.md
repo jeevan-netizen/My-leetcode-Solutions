@@ -13,6 +13,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -98,6 +99,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -187,5 +190,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
