@@ -15,6 +15,7 @@
 | [0220-contains-duplicate-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -37,6 +38,7 @@
 | [0189-rotate-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -52,11 +54,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
 ## Sliding Window
 |  |
@@ -156,6 +160,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
