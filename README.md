@@ -15,6 +15,7 @@
 | [0220-contains-duplicate-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0300-longest-increasing-subsequence](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0441-arranging-coins) |
@@ -197,4 +200,8 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
