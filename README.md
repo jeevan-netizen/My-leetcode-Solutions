@@ -24,6 +24,7 @@
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0729-my-calendar-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -114,6 +115,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
+| [0729-my-calendar-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -176,6 +178,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
+| [0729-my-calendar-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0729-my-calendar-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -219,4 +222,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
