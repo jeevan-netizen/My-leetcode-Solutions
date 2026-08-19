@@ -94,6 +94,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -131,6 +132,7 @@
 | [0076-minimum-window-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -146,6 +148,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
