@@ -27,6 +27,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -55,6 +56,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0541-reverse-string-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
@@ -120,6 +123,7 @@
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -162,6 +166,7 @@
 | [0189-rotate-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 ## Manacher
 |  |
 | ------- |
