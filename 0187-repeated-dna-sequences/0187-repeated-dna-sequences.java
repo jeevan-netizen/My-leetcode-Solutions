@@ -2,17 +2,22 @@ class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
         Set<String> seen = new HashSet<>();
         Set<String> result = new HashSet<>();
+        int left = 0;
+        int right = 0;
 
-        for (int i = 0; i <= s.length() - 10; i++) {
-            String curr = s.substring(i, i + 10);
+        while (right < s.length()) {
+            right++;
+            if (right - left == 10) {
+                String dna = s.substring(left, right);
 
-            if (seen.contains(curr)) {
-                result.add(curr);
-            } else {
-                seen.add(curr);
+                if (seen.contains(dna)) {
+                    result.add(dna);
+                } else {
+                    seen.add(dna);
+                }
+                left++;
             }
         }
-
         return new ArrayList<>(result);
     }
 }
