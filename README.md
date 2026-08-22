@@ -31,6 +31,7 @@
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1652-defuse-the-bomb](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
@@ -57,6 +58,7 @@
 | [0042-trapping-rain-water](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -216,6 +219,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
@@ -230,10 +234,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
