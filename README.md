@@ -30,6 +30,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
@@ -90,6 +91,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
@@ -155,6 +157,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## String Matching
 |  |
@@ -272,4 +275,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
