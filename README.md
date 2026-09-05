@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -147,6 +148,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0049-group-anagrams) |
