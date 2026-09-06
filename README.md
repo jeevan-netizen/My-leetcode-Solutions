@@ -22,6 +22,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -51,6 +52,7 @@
 | [0321-create-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -132,6 +134,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -159,6 +162,7 @@
 | [0242-valid-anagram](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -178,6 +182,7 @@
 | [0242-valid-anagram](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Math
