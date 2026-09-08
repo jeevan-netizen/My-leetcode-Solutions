@@ -32,6 +32,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -97,6 +98,7 @@
 | [0567-permutation-in-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -143,6 +145,7 @@
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -150,6 +153,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -244,6 +248,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
@@ -259,11 +264,13 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 ## Range Minimum/Maximum Query
 |  |
