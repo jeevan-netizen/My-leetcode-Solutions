@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
