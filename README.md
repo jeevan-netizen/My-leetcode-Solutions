@@ -128,6 +128,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0268-missing-number) |
