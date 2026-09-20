@@ -17,6 +17,7 @@
 | [0118-pascals-triangle](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -184,6 +185,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -208,6 +210,7 @@
 | [0047-permutations-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0268-missing-number) |
@@ -235,6 +238,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Greedy
@@ -333,6 +337,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Interactive
 |  |
@@ -355,4 +360,8 @@
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
