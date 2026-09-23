@@ -1,0 +1,30 @@
+import java.util.Arrays;
+
+class Solution {
+    public int[] numMovesStonesII(int[] stones) {
+        int n = stones.length;
+        Arrays.sort(stones);
+        int maxMoves = Math.max(
+            stones[n - 1] - stones[1] - n + 2, 
+            stones[n - 2] - stones[0] - n + 2
+        );
+        
+        int minMoves = n;
+        int l = 0;
+        
+        for (int r = 0; r < n; r++) {
+            while (stones[r] - stones[l] + 1 > n) {
+                l++;
+            }
+            
+            int alreadyStored = r - l + 1;
+            if (alreadyStored == n - 1 && stones[r] - stones[l] + 1 == n - 1) {
+                minMoves = Math.min(minMoves, 2);
+            } else {
+                minMoves = Math.min(minMoves, n - alreadyStored);
+            }
+        }
+        
+        return new int[] { minMoves, maxMoves };
+    }
+}
