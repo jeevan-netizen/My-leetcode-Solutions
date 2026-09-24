@@ -27,6 +27,7 @@
 | [0239-sliding-window-maximum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0321-create-maximum-number) |
@@ -159,6 +160,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
