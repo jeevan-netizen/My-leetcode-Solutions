@@ -130,6 +130,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
@@ -153,6 +154,7 @@
 | [0647-palindromic-substrings](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -185,6 +188,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
 | ------- |
