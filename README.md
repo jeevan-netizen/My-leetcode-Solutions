@@ -130,6 +130,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
@@ -154,6 +155,7 @@
 | [0647-palindromic-substrings](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1763-longest-nice-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Search
 |  |
@@ -212,6 +214,7 @@
 | [0567-permutation-in-string](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1763-longest-nice-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## String Matching
 |  |
@@ -256,6 +259,7 @@
 | [0169-majority-element](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [1763-longest-nice-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -278,6 +282,7 @@
 | [0187-repeated-dna-sequences](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1763-longest-nice-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 ## Pigeonhole Principle
 |  |
 | ------- |
