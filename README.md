@@ -38,6 +38,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -235,6 +236,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1040-moving-stones-until-consecutive-ii) |
