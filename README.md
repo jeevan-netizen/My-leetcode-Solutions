@@ -135,6 +135,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
@@ -161,6 +162,7 @@
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1763-longest-nice-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Search
 |  |
@@ -222,6 +224,7 @@
 | [0904-fruit-into-baskets](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1763-longest-nice-substring](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## String Matching
 |  |
@@ -371,6 +374,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Interactive
 |  |
 | ------- |
