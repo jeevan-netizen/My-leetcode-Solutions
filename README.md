@@ -44,6 +44,7 @@
 | [0455-assign-cookies](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0598-range-addition-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -257,6 +258,7 @@
 | [0202-happy-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0598-range-addition-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/jeevan-netizen/My-leetcode-Solutions/tree/master/1040-moving-stones-until-consecutive-ii) |
 ## Manacher
